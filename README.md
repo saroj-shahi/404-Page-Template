@@ -1,2 +1,2 @@
-# Test Website
-**This is an example of a description**
+# 404 Page Template
+**This is a simple 404 error template.**
